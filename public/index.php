@@ -75,4 +75,8 @@ $response = $kernel->handle(
 $response->send();
 
 $kernel->terminate($request, $response);
+<<<<<<< HEAD
 >>>>>>> feature
+=======
+>>>>>>> 724c9a5dabd58a16837032b0b5f5c4c5750c32f7
+>>>>>>> 805a4eb2506b52b9dbcb25bd572c918731c8ac57
