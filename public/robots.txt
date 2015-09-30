@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # Don't allow web crawlers to index Craft
 User-agent: *
 Disallow: /craft/
+=======
+User-agent: *
+Disallow:
+>>>>>>> 724c9a5dabd58a16837032b0b5f5c4c5750c32f7
